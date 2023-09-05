@@ -295,7 +295,7 @@ def plot_loss(history):
     plt.plot(history['train_loss'], label='train', marker='o')
     plt.plot(history['val_loss'], label='val', marker='o')
     plt.title('Loss per epoch')
-    plt.ylabel('Loss');
+    plt.ylabel('Loss')
     plt.xlabel('Epoch')
     plt.legend()
     plt.grid()
