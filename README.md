@@ -12,5 +12,5 @@
 ## Deep Tabular Learning
 
 - [Revisiting Deep Learning Models for Tabular Data](https://paperswithcode.com/paper/revisiting-deep-learning-models-for-tabular)
-- [TabNet: Attentive Interpretable Tabular Learning](https://paperswithcode.com/paper/tabnet-attentive-interpretable-tabular)
 - [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://paperswithcode.com/paper/neural-oblivious-decision-ensembles-for-deep)
+- [TabNet: Attentive Interpretable Tabular Learning](https://paperswithcode.com/paper/tabnet-attentive-interpretable-tabular)
